@@ -5,9 +5,9 @@ permalink: /
 subtitle: <a href='#'>Seoul National University</a>. 1 Gwanak-ro, Gwanak-gu, Seoul 08826.
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  align: left
+  image: prof_pic_chinh.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 Building 200</p>
     <p>College of Argriculture and Life Sciences</p>
