@@ -9,7 +9,7 @@ profile:
   image: prof_pic_chinh.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 Building 200</p>
+    <p>Building 200</p>
     <p>College of Argriculture and Life Sciences</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
